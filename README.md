@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/felipe-scherer/beyond_the_django.svg?branch=master)](https://travis-ci.org/felipe-scherer/beyond_the_django)
+
 
      ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
     '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
